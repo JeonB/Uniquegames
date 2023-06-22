@@ -10,3 +10,6 @@ WAS: APACHE TOMCAT 9.0.73 <br>
 
 ![image](https://github.com/JeonB/Uniquegames/assets/57223597/818afb0b-3dcd-4a5a-81f2-98d8934da18b) <br>
 
+### 2. ERD
+![image](https://github.com/JeonB/Uniquegames/assets/57223597/53189ce0-1bfc-47e6-a6cb-82e29fa5537c)
+
