@@ -15,7 +15,7 @@ public class FileUtil {
     String root_path;
 
 
-    public FileUtil(IntroVo vo, HttpServletRequest request) throws IOException {
+    public FileUtil(IntroVo vo, HttpServletRequest request){
         this.uploadFile = vo.getUploadFile();
         this.vo = vo;
         this.root_path = request.getSession().getServletContext().getRealPath("/");
